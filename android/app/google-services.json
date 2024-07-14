@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83134981142",
+    "project_id": "meddapp-751a7",
+    "storage_bucket": "meddapp-751a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83134981142:android:af631be4f64a5d06528137",
+        "android_client_info": {
+          "package_name": "com.example.testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMUcy4WTnj7h5itPh0ninpO-veldsYRqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83134981142:android:c507b76b3f60d52e528137",
+        "android_client_info": {
+          "package_name": "com.example.work"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMUcy4WTnj7h5itPh0ninpO-veldsYRqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
